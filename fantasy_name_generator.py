@@ -22,15 +22,14 @@ def name_getter(letra):
 
     name_file=open(path,"r")
 
-    for cont in range(0,length+1,1):
+    for cont in range(0,lenght+1,1):
         read = name_file.readline()+read
         names = read.split()
 
-    print(lenght, names)
     rand = rd.randint(0,lenght)
     name = names[rand]
 
-    return _name
+    return name
 
 def last_name_getter():
     last_name_file = open("last_name.txt")
@@ -44,10 +43,25 @@ def last_name_getter():
     rand2 = rd.randint(0,10445)
     final_name = last[rand2]
 
+    return final_name
 
 def main():
-    gender = input("inserte el genero")
-    if gender == "m":
-        name = name_getter("m")
+    while True:
+        gender = input("Select character gender(m or f):")
+        if gender.lower() == "m":
+            name = name_getter("m")
+            last_name = last_name_getter()
+            print(name,last_name)
+        
+        elif gender.lower() == "f":
+            name = name_getter("f")
+            last_name = last_name_getter()
+            print(name,last_name)
+        
+        elif gender.lowe() =="x":
+            break
+
+        else:
+            print("please use m or f, if you want to quit use x")
 
 main()
