@@ -3,44 +3,51 @@ import random as rd
 gender = ""
 names = []
 last = []
-length = 0
+name = ""
 
-final_name = ""
-read = ""
-read_last=""
-
-def name_getter():
+def name_getter(letra):
     cont = 0
     name_file = ""
-    last_name_file = open("last_name.txt")
+    path = ""
+    read = ""
+    length = 0
 
-    if gender.lower == "m": 
+    if letra == "m": 
         lenght = 6301
-        name_file = open("first_name_male.txt")
+        path = "first_name_male.txt"
 
-    elif gender.lower == "f": 
+    elif letra == "f": 
         lenght = 4384
-        name_file = open("first_name_female.txt")
+        path = "first_name_female.txt"
 
-    for cont in range(length):
+    name_file=open(path,"r")
+
+    for cont in range(0,length+1,1):
         read = name_file.readline()+read
         names = read.split()
-    
-    for cont in range(10445):
+
+    print(lenght, names)
+    rand = rd.randint(0,lenght)
+    name = names[rand]
+
+    return _name
+
+def last_name_getter():
+    last_name_file = open("last_name.txt")
+    final_name = ""
+    read_last=""
+
+    for cont in range(10446):
         read_last = last_name_file.readline()+read_last
-        last = read.split()
+        last = read_last.split()
+    
+    rand2 = rd.randint(0,10445)
+    final_name = last[rand2]
 
-
-    rand = rd.randint(lenght)
-    rand2 = rd.randint(10445)
-    final_name = names[rand]+last[cont]
-
-    return final_name
 
 def main():
     gender = input("inserte el genero")
     if gender == "m":
-        final_name = name_getter()
-        print(final_name)
-main()
+        name = name_getter("m")
 
+main()

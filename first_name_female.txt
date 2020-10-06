@@ -1,6 +1,4 @@
 Aafte
-Aalès
-Aalèz
 Aalfte
 Aalina
 Aaline
@@ -20,8 +18,6 @@ Acelina
 Achaia
 Achethe
 Achradina
-Actaëe
-Actë
 Ada
 Adala
 Adalberta
@@ -65,7 +61,7 @@ Adeltrudis
 Adelysia
 Adeodata
 Adere
-Adète
+Adï¿½te
 Adhela
 Adhelina
 Adila
@@ -126,7 +122,7 @@ Agas
 Agase
 Agate
 Agatha
-Agathé
+Agathï¿½
 Agathonice
 Agave
 Agentrudis
@@ -201,7 +197,7 @@ Alaine
 Alainne
 Alais
 Alaitz
-Alazaïs
+Alazaï¿½s
 Alazne
 Alba
 Albelenda
@@ -458,7 +454,7 @@ Andrezuria
 Andrie
 Andromeda
 Ane
-Anès
+Anï¿½s
 Anese
 Anesot
 Anestasia
@@ -554,7 +550,7 @@ Arandon
 Arantxa
 Arantza
 Arantzazu
-Aránzazu
+Arï¿½nzazu
 Araoz
 Arbeiza
 Arbekoa
@@ -639,7 +635,7 @@ Astyoche
 Astyocheia
 Atalanta
 Atallo
-Atë
+Atï¿½
 Athala
 Athanasia
 Athela
@@ -660,7 +656,7 @@ Atsegie
 Atxarte
 Aua
 Auacyn
-Auberée
+Auberï¿½e
 Aubirge
 Aubourc
 Aubreda
@@ -814,7 +810,7 @@ Beatricia
 Beatricie
 Beatricis
 Beatrix
-Béatriz
+Bï¿½atriz
 Beattie
 Beatty
 Beautrice
@@ -849,7 +845,7 @@ Berehta
 Berenda
 Berenga
 Berengaria
-Bérengère
+Bï¿½rengï¿½re
 Berenike
 Berezi
 Bergard
@@ -893,10 +889,10 @@ Bibie
 Bidane
 Biddy
 Biedeluue
-Biétris
-Biétrix
-Biétriz
-Biétron
+Biï¿½tris
+Biï¿½trix
+Biï¿½triz
+Biï¿½tron
 Bihotz
 Bikarregi
 Bilda
@@ -1019,7 +1015,7 @@ Childebertana
 Chione
 Chiore
 Chloe
-Chloë
+Chloï¿½
 Chloris
 Chlotichhilda
 Chlotsuintha
@@ -1084,7 +1080,7 @@ Colecta
 Coleite
 Colet
 Coleta
-Colète
+Colï¿½te
 Colett
 Coletta
 Colina
@@ -1156,7 +1152,7 @@ Dametta
 Damia
 Damiane
 Damisona
-Danaë
+Danaï¿½
 Danburga
 Dania
 Darklis
@@ -1233,7 +1229,7 @@ Dorate
 Dorathea
 Dorathia
 Dorcas
-Dorée
+Dorï¿½e
 Doreen
 Dorette
 Doria
@@ -1896,7 +1892,7 @@ Geue
 Geuecok
 Geva
 Gileite
-Gilète
+Gilï¿½te
 Gilia
 Giliana
 Giliane
@@ -2252,13 +2248,13 @@ Hoki
 Honnor
 Honor
 Honorata
-Honorée
-Honorète
+Honorï¿½e
+Honorï¿½te
 Honoria
 Honors
 Horenga
 Hostaruuara
-Houdée
+Houdï¿½e
 Hruodgarda
 Hruotberta
 Hua
@@ -2575,7 +2571,7 @@ Keina
 Kemma
 Kephissa
 Kharmion
-Khlöe
+Khlï¿½e
 Khloris
 Kiena
 Kiles
@@ -2601,7 +2597,7 @@ Kontxesi
 Kontzeziona
 Kordel
 Kordula
-Koré
+Korï¿½
 Koritto
 Koru
 Krabelin
@@ -2729,7 +2725,7 @@ Lettie
 Letty
 Letyce
 Leucothea
-Leucothoë
+Leucothoï¿½
 Leueiua
 Leuekin
 Leuerun
@@ -3126,7 +3122,7 @@ Metis
 Metriche
 Metylda
 Michaela
-Michièle
+Michiï¿½le
 Mientje
 Mikele
 Milagros
@@ -3591,7 +3587,7 @@ Probina
 Procne
 Procris
 Prone
-Pronèle
+Pronï¿½le
 Proseria
 Protezy
 Prothasey
@@ -3834,7 +3830,7 @@ Sedemai
 Sedemaiden
 Sedemode
 Sedille
-Sédillon
+Sï¿½dillon
 Sedilon
 Seghuie
 Seheve
@@ -4056,17 +4052,17 @@ Thiodsuinda
 Thisbe
 Thiudigotho
 Thiutuuara
-Thoë
+Thoï¿½
 Thomassa
 Thomassia
-Thoösa
+Thoï¿½sa
 Thrasborg
 Thrudberga
 Thyia
 Tice
 Ticekin
 Tiece
-Tièce
+Tiï¿½ce
 Tiecelin
 Tiecia
 Tiede
@@ -4109,7 +4105,7 @@ Tui
 Tungia
 Turi
 Txori
-Tyèce
+Tyï¿½ce
 Tyecelin
 Tyeceline
 Tyro

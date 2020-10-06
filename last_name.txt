@@ -70,7 +70,6 @@ Akaregi
 Akordagoitia
 Akutain
 Alacoque
-Aladár
 Alagna
 Alard
 Alasia
@@ -153,7 +152,7 @@ Ambre
 Ambrogi
 Ambrogiani
 Ameche
-Amélineau
+Amï¿½lineau
 Amelotte
 Amendola
 Amerman
@@ -174,7 +173,6 @@ Amocacci
 Amore
 Amoruso
 Amoudry
-Ampère
 Amstadter
 Anagyrou
 Anasagasti
@@ -187,7 +185,6 @@ Andikoetxea
 Andrade
 Andraka
 Andras
-Andrássy
 Andreadis
 Andreou
 Andretta
@@ -295,13 +292,11 @@ Arentz
 Arestegi
 Aresti
 Aretxaga
-Arfè
 Argelander
 Argerich
 Argo
 Arguelles
 Argyra
-Aricó
 Arizeruan
 Arizmandez
 Ariztegi
@@ -324,7 +319,7 @@ Arostegi
 Arpad
 Arpinon
 Arquette
-Arquilière
+Arquiliï¿½re
 Arrablay
 Arraiz
 Arranz
@@ -586,7 +581,7 @@ Barretti
 Barrios
 Barros
 Barrutia
-Bársony
+Bï¿½rsony
 Bartels
 Barth
 Barthez
@@ -628,7 +623,7 @@ Basurto
 Batchev
 Batens
 Bateu
-Báthory
+Bï¿½thory
 Batiffol
 Batistuta
 Batlle
@@ -648,7 +643,7 @@ Baudry
 Bauer
 Baujot
 Bauldry
-Bäumer
+Bï¿½umer
 Baumgaertel
 Baumgart
 Baumont
@@ -684,7 +679,7 @@ Beauvallet
 Becart
 Beccatini
 Becchetti
-Becdelièvre
+Becdeliï¿½vre
 Bechmann
 Bechstein
 Beck
@@ -798,7 +793,7 @@ Berneri
 Berners
 Bernhoffer
 Bernier
-Bernières
+Berniï¿½res
 Bernini
 Bernoldi
 Bernotti
@@ -825,10 +820,10 @@ Bertran
 Berty
 Bervoets
 Berzevicky
-Besaçon
+Besaï¿½on
 Besanceney
 Bescanceny
-Besonhé
+Besonhï¿½
 Bessa
 Bessarion
 Besse
@@ -846,7 +841,7 @@ Bettinelli
 Bettini
 Bettiza
 Beukema
-Beul¾
+Beulï¿½
 Bevis
 Beyer
 Beyleveld
@@ -939,7 +934,7 @@ Block
 Bloeckner
 Bloem
 Blom
-Blòmel
+Blï¿½mel
 Blommaert
 Blommen
 Blondeau
@@ -999,7 +994,7 @@ Bohland
 Bohlen
 Bohm
 Bohman
-Böhmer
+Bï¿½hmer
 Bohon
 Bohringer
 Boileau
@@ -1100,8 +1095,8 @@ Bordon
 Bordreuil
 Bordui
 Bordurin
-Bore¾
-Borély
+Boreï¿½
+Borï¿½ly
 Borev
 Borgeling
 Borghese
@@ -1163,7 +1158,7 @@ Boudin
 Boudouani
 Boudouris
 Bougart
-Boughé
+Boughï¿½
 Bouic
 Bouillon
 Boulais
@@ -1258,7 +1253,7 @@ Braunsberger
 Braunsteiner
 Brazzi
 Brebeuf
-Brébeuf
+Brï¿½beuf
 Brecht
 Brechu
 Bredder
@@ -1288,13 +1283,13 @@ Bresciani
 Bretel
 Breteuil
 Breton
-Bréton
+Brï¿½ton
 Bretteville
 Breu
 Breuer
 Breughel
 Breukink
-Brèvedent
+Brï¿½vedent
 Brevort
 Breyandt
 Breytenbach
@@ -1340,7 +1335,7 @@ Brower
 Brozi
 Brubaker
 Bruch
-Brück
+Brï¿½ck
 Bruckner
 Brucy
 Brugger
@@ -1376,7 +1371,7 @@ Buchner
 Bucholtz
 Buchon
 Buci
-Budé
+Budï¿½
 Buder
 Budi
 Budo
@@ -1448,7 +1443,7 @@ Buss
 Bussotti
 Busto
 Butacu
-Büttner
+Bï¿½ttner
 Buttone
 Buys
 Buytaert
@@ -1711,7 +1706,7 @@ Catteau
 Caubere
 Caunter
 Causier
-Causs¾
+Caussï¿½
 Caussinade
 Cavagnoud
 Cavalcanti
@@ -1761,7 +1756,7 @@ Cesti
 Cestini
 Cetta
 Cevaer
-Cézanne
+Cï¿½zanne
 Chabert
 Chaboche
 Chabon
@@ -1941,7 +1936,7 @@ Cleda
 Clein
 Cleine
 Clemenceau
-Clémencet
+Clï¿½mencet
 Clemens
 Clement
 Clementi
@@ -2014,7 +2009,7 @@ Comollo
 Compagnoni
 Comtois
 Comyn
-Conceicão
+Conceicï¿½o
 Condulmaro
 Conegliano
 Confalonieri
@@ -2045,7 +2040,7 @@ Corbajram
 Corbelli
 Corbera
 Corbet
-Corbière
+Corbiï¿½re
 Corbon
 Corbucca
 Corcuera
@@ -2101,7 +2096,7 @@ Costanduros
 Coste
 Costi
 Costocurta
-Coté
+Cotï¿½
 Coteel
 Cotichini
 Cotsadis
@@ -2357,11 +2352,11 @@ de Beaumont
 de Beauvais
 de Bellehache
 de Bellemare
-de Bellièvre
+de Belliï¿½vre
 de Belmeis
 de Berchelai
 de Bercheres
-Debergé
+Debergï¿½
 de Bernai
 de Bernieres
 de Berranger
@@ -2524,7 +2519,7 @@ de la Mare
 Delamater
 Delamere
 Delamontagne
-de Lampérière
+de Lampï¿½riï¿½re
 Delannoy
 de la Noue
 de la Place
@@ -2656,7 +2651,7 @@ de Pougy
 Depraeter
 de Pre
 Deprez
-Déprez
+Dï¿½prez
 Depuysselaer
 Depuysseleyr
 Derain
@@ -2891,7 +2886,7 @@ Doczi
 Dodos
 Dodrescu
 Doepker
-Döhl
+Dï¿½hl
 Dohnanyi
 Doillac
 Dolagaray
@@ -3013,7 +3008,7 @@ Dudnic
 Dudok
 Duellet
 Duerinckx
-Duèse
+Duï¿½se
 Dufaux
 Dufay
 Duffet
@@ -3038,7 +3033,7 @@ Dumay
 du Merle
 Dumesnil
 Dumitrescu
-Dümmler
+Dï¿½mmler
 Dumont
 du Moucel
 Dunand
@@ -3074,7 +3069,7 @@ Durkheim
 Durlacher
 Durot
 D'urso
-Durufl¾
+Duruflï¿½
 Durville
 du Saussai
 Dutari
@@ -3198,7 +3193,7 @@ Ennis
 Ensminger
 Ensslin
 Entremont
-Eötvös
+Eï¿½tvï¿½s
 Eparvier
 Ephrussi
 Epke
@@ -3312,7 +3307,7 @@ Falck
 Falcon
 Falconieri
 Falcoz
-Fallières
+Falliï¿½res
 Fallmerayer
 Fammeree
 Fangio
@@ -3358,7 +3353,7 @@ Fazekas
 Fazio
 Fazliu
 Feake
-Fébre
+Fï¿½bre
 Fecamp
 Fede
 Fedele
@@ -3383,9 +3378,9 @@ Feller
 Femia
 Fen
 Fendler
-Fénéon
+Fï¿½nï¿½on
 Fenner
-Férat
+Fï¿½rat
 Ferdinandus
 Ferency
 Ferga
@@ -3511,9 +3506,9 @@ Foa
 Fobes
 Foch
 Focquet
-Födes
+Fï¿½des
 Foerster
-Fofão
+Fofï¿½o
 Fogel
 Foldenyi
 Folena
@@ -3538,7 +3533,7 @@ Foray
 Forcella
 Foree
 Foreville
-Forgách
+Forgï¿½ch
 Forgacs
 Forgeard
 Forget
@@ -3680,7 +3675,7 @@ Furnon
 Fusar-Poli
 Fuseli
 Fuser
-Füster
+Fï¿½ster
 Futre
 Gabbiadini
 Gabor
@@ -3865,7 +3860,7 @@ Gerlach
 Gero
 Geroe
 Gerold
-Géromé
+Gï¿½romï¿½
 Gerosa
 Gerratana
 Gerrebrantse
@@ -3892,7 +3887,7 @@ Gette
 Gettelfinger
 Geurts
 Gevaert
-Géza
+Gï¿½za
 Ghedina
 Gheeraerts
 Gherea
@@ -3997,7 +3992,7 @@ Glezos
 Glotz
 Gnass
 Gobbi
-Göbelbecker
+Gï¿½belbecker
 Gobert
 Gobetti
 Gobinet
@@ -4032,11 +4027,11 @@ Goga
 Gogean
 Gogele
 Goggi
-Gögler
+Gï¿½gler
 Gogny
 Gogoasa
 Gogos
-Göhler
+Gï¿½hler
 Gohmann
 Goia
 Goikoetxea
@@ -4048,7 +4043,7 @@ Goldberger
 Goldenberger
 Golino
 Goller
-Göller
+Gï¿½ller
 Golmard
 Goltz
 Gomboult
@@ -4077,7 +4072,7 @@ Gotti
 Gottignie
 Gottlieb
 Gotxikoa
-Götz
+Gï¿½tz
 Goubau
 Goubert
 Gouel
@@ -4129,7 +4124,7 @@ Grazdani
 Graziadei
 Grazioli
 Grbech
-Grébaut
+Grï¿½baut
 Greco
 Gregoretti
 Greiner
@@ -4194,7 +4189,7 @@ Grul
 Grumach
 Grumel
 Grumiaux
-Grün
+Grï¿½n
 Grundherr
 Grundmann
 Grupa
@@ -4215,9 +4210,9 @@ Guenthner
 Gueorgiev
 Guepy
 Guera
-Guérard
+Guï¿½rard
 Guerbois
-Guéribout
+Guï¿½ribout
 Guerin
 Guerini
 Guernon
@@ -4262,7 +4257,7 @@ Guldenschuh
 Gulp
 Gumy
 Gunsche
-Günter
+Gï¿½nter
 Gunther
 Guran
 Guridi
@@ -4340,7 +4335,7 @@ Halii
 Halil
 Halili
 Haliti
-Hallé
+Hallï¿½
 Haller
 Halmai
 Halmer
@@ -4437,7 +4432,7 @@ Heck
 Heckmair
 Hedervary
 Hedevary
-Hédiart
+Hï¿½diart
 Heekeren
 Heevink
 Heffner
@@ -4517,13 +4512,13 @@ Herbaux
 Herber
 Herberhold
 Herberich
-Herbrüggen
+Herbrï¿½ggen
 Herbst
 Herde
 Herder
 Herdfeld
 Heregger
-Hergenröther
+Hergenrï¿½ther
 Herhard
 Heriet
 Herlemont
@@ -4541,7 +4536,7 @@ Hershey
 Hersman
 Hertje
 Herty
-Hervé
+Hervï¿½
 Herzfeld
 Herzl
 Herzog
@@ -4556,7 +4551,7 @@ Heu
 Heumann
 Heusinveld
 Heusler
-Heuzé
+Heuzï¿½
 Hewse
 Heyman
 Heymann
@@ -4626,7 +4621,7 @@ Hofstra
 Hogler
 Hohenleutner
 Hohenwart
-Höhne
+Hï¿½hne
 Hoka
 Hol
 Holba
@@ -4655,7 +4650,7 @@ Hooss
 Hooten
 Hoover
 Hopfer
-Höpken
+Hï¿½pken
 Hoppe
 Hoppen
 Hopper
@@ -4673,7 +4668,7 @@ Horstink
 Horthy
 Horvarth
 Horvath
-Hoschedé
+Hoschedï¿½
 Hoskens
 Hostache
 Hostetter
@@ -4691,12 +4686,12 @@ Hoy
 Hristov
 Hruby
 Hrutka
-Hü
+Hï¿½
 Hubchev
 Huber
 Hubert
 Hubner
-Hübsch
+Hï¿½bsch
 Hue
 Huet
 Hugel
@@ -4709,7 +4704,7 @@ Huke
 Hulit
 Hulse
 Humbert
-Hümmel
+Hï¿½mmel
 Hunkoos
 Hunsberger
 Huntziger
@@ -4725,14 +4720,14 @@ Hurtis
 Husmann
 Husserl
 Huster
-Hutflötz
+Hutflï¿½tz
 Huthwohl
 Huwiter
 Huybertszen
 Huygens
 Huyghen
 Huyler
-Hyères
+Hyï¿½res
 Hynde
 Hyseni
 Hysi
@@ -4760,7 +4755,7 @@ Ilie
 Iliev
 Ilionescu
 Illes
-Illésházy
+Illï¿½shï¿½zy
 Illuminati
 Ilyes
 Imanci
@@ -4813,7 +4808,7 @@ Issorat
 Istogu
 Istok
 Istratescu
-Istvánffy
+Istvï¿½nffy
 Isufaj
 Isusi
 Ituarte
@@ -4902,7 +4897,7 @@ Jongman
 Jongmans
 Jonk
 Jonker
-Joó
+Joï¿½
 Joos
 Joossens
 Joosten
@@ -4924,8 +4919,8 @@ Jovtvev
 Jubert
 Juillet
 Julia
-Julião
-Jülicher
+Juliï¿½o
+Jï¿½licher
 Jungbloet
 Junghuhn
 Junqueira
@@ -4951,7 +4946,7 @@ Kaklamanakis
 Kakoulli
 Kalaj
 Kalanyos
-Káldi
+Kï¿½ldi
 Kaleci
 Kalergi
 Kalff
@@ -5130,11 +5125,11 @@ Klinger
 Klinsmann
 Klock
 Klohse
-Klöpsch
+Klï¿½psch
 Klosel
 Klosner
 Klostermann
-Klozbücher
+Klozbï¿½cher
 Klug
 Kluge
 Kluivert
@@ -5161,7 +5156,7 @@ Koch
 Kochalakos
 Kochiu
 Kochta
-Koçi
+Koï¿½i
 Kocsis
 Kodaly
 Koeck
@@ -5170,7 +5165,7 @@ Koehler
 Koehneman
 Koekkoek
 Koell
-Köella
+Kï¿½ella
 Koellerer
 Koelmel
 Koemans
@@ -5184,7 +5179,7 @@ Kohlmann
 Kohlruss
 Kohlsaat
 Kohn
-Köhncke
+Kï¿½hncke
 Kohning
 Kokkinos
 Kokotis
@@ -5213,7 +5208,7 @@ Koopman
 Koopmans
 Kopke
 Koppen
-Koraïs
+Koraï¿½s
 Koranyi
 Koretnaar
 Korff
@@ -5234,7 +5229,7 @@ Kosos
 Kossuth
 Kost
 Kostanopoulos
-Köster
+Kï¿½ster
 Kosters
 Kostner
 Kostopoulou
@@ -5326,7 +5321,7 @@ Kuehn
 Kuehne
 Kuerten
 Kuhbauer
-Kühnemund
+Kï¿½hnemund
 Kuhnt
 Kuijken
 Kuipers
@@ -5335,10 +5330,10 @@ Kulcsar
 Kulhberg
 Kulmus
 Kumbernuss
-Kümblin
-Kümlin
+Kï¿½mblin
+Kï¿½mlin
 Kun
-Küng
+Kï¿½ng
 Kuntz
 Kunz
 Kupi
@@ -5362,12 +5357,12 @@ Labande
 Labarde
 Labat
 Labaye
-Labbé
+Labbï¿½
 la Berche
 la Berviere
 Labit
 Labourdette
-Labouré
+Labourï¿½
 Labraccio
 Labre
 Labriola
@@ -5400,7 +5395,7 @@ Lafitte
 la Foret
 Laforet
 Lafranchi
-Lafrenière
+Lafreniï¿½re
 Laghi
 Lago
 Lagomarsino
@@ -5476,7 +5471,7 @@ Lansink
 Lanziego
 Lapaglia
 Lapasset
-la Pérouse
+la Pï¿½rouse
 Lapi
 Lapierre
 Lapin
@@ -5484,7 +5479,7 @@ Lapo
 Lapointe
 la Pommeraie
 Laporte
-Lapôtre
+Lapï¿½tre
 l'Appeville
 Laprade
 Lapuente
@@ -5493,14 +5488,14 @@ Larbaletrier
 l'Archer
 l'Archibudelli
 Lardenoit
-Largillière
+Largilliï¿½re
 Larguier
 Larini
 la Riviere
 la Rocca
 la Rochenoire
 Laros
-Larosière
+Larosiï¿½re
 Larramendy
 Larraza
 Larrea
@@ -5592,7 +5587,7 @@ Leconte
 le Conte
 le Cordier
 le Cornu
-Lecouvé
+Lecouvï¿½
 Lecroix
 Lector
 le dauphin
@@ -5673,7 +5668,7 @@ Lempereur
 le Nain
 Lengnisch
 Leniz
-le Nôtre
+le Nï¿½tre
 Lent
 Lentini
 Lenz
@@ -5694,7 +5689,7 @@ Leplat
 le Poitevin
 Lepore
 Lepper
-le Prévost
+le Prï¿½vost
 Leptio
 Lequiller
 Lercari
@@ -5702,7 +5697,7 @@ Lerch
 Lerminie
 le Roux
 Lertxundi
-Lesaché
+Lesachï¿½
 Lesbordes
 Lesbros
 Lesclide
@@ -5740,7 +5735,7 @@ Leys
 Leysen
 Lezertua
 Lezeta
-Lézine
+Lï¿½zine
 L'Heureux
 Lhuillier
 Lianis
@@ -5890,7 +5885,7 @@ Louwerense
 Louwman
 Lovet
 Lovica
-Löwe
+Lï¿½we
 Loy
 Lozier
 Lozoya
@@ -5905,14 +5900,14 @@ Lubin
 Lubitsch
 Luca
 Lucantoni
-Luçay
+Luï¿½ay
 Lucca
 Lucchesi
 Lucchetti
 Lucchi
 Lucci
 Lucciardi
-Lüceanu
+Lï¿½ceanu
 Lucescu
 Lucetti
 Luciani
@@ -5958,11 +5953,11 @@ Lutkens
 Luttazi
 Luttini
 Lutz
-Lütz
+Lï¿½tz
 Lutzenius
 Luyt
 Luz
-Lüz
+Lï¿½z
 Luzaj
 Lydecker
 Lynom
@@ -6067,7 +6062,7 @@ Malhuret
 Mali
 Maliagros
 Malisse
-Mallarmé
+Mallarmï¿½
 Mallebisse
 Mallen
 Mallenbrandt
@@ -6127,7 +6122,7 @@ Marat
 Marceau
 Marcelin
 Marchand
-Marchés
+Marchï¿½s
 Marchetti
 Marchmain
 Marci
@@ -6358,14 +6353,14 @@ Melsen
 Memlinc
 Memmi
 Memmoli
-Ménard
+Mï¿½nard
 Mendariz
 Mendaza
 Mendazona
 Mendel
 Mendelsohn
 Mendes
-Mendès
+Mendï¿½s
 Mendialde
 Mendibe
 Mendiburu
@@ -6437,7 +6432,7 @@ Metastasio
 Metaxas
 Metelman
 Metman
-Métraux
+Mï¿½traux
 Mets
 Metsalaer
 Metsys
@@ -6561,7 +6556,7 @@ Moelling
 Moens
 Moenssens
 Moerenhout
-Möhler
+Mï¿½hler
 Mohr
 Mohrhaus
 Moinard
@@ -6697,7 +6692,7 @@ Muessig
 Mugica
 Muguruza
 Muhaburu
-Mühle
+Mï¿½hle
 Mujushi
 Mul
 Mulazzoni
@@ -6705,14 +6700,14 @@ Mulch
 Mulder
 Mullenhoff
 Muller
-Müller
+Mï¿½ller
 Munchow
 Mundo
 Munduarte
-Munkcási
+Munkcï¿½si
 Munneville
 Munoa
-Münster
+Mï¿½nster
 Munteanu
 Munteaunu
 Muntz
@@ -6751,8 +6746,8 @@ Mylonas
 Mytens
 Mytorena
 Nachbauer
-Naçi
-Nádasdy
+Naï¿½i
+Nï¿½dasdy
 Nadeau
 Nadelhoffer
 Naegeli
@@ -6810,14 +6805,14 @@ Nedry
 Neethling
 Neezer
 Nef
-Negrão
+Negrï¿½o
 Negret
 Negris
 Negura
 Negutesco
 Neirinck
 Nejedly
-Nélaton
+Nï¿½laton
 Nelis
 Nelond
 Nemeth
@@ -7072,7 +7067,7 @@ Palagyi
 Palairet
 Palamas
 Palen
-Paléologue
+Palï¿½ologue
 Palermo
 Palet
 Palgani
@@ -7214,7 +7209,7 @@ Pavlakakis
 Pavlenco
 Pavoni
 Pazanini
-Pázmány
+Pï¿½zmï¿½ny
 Pazzi
 Pazzio
 Pecchia
@@ -7244,7 +7239,7 @@ Peixe
 Peixoto
 Peizerat
 Pelchat
-Pélissier
+Pï¿½lissier
 Pellegrino
 Pellico
 Pellissier
@@ -7275,7 +7270,7 @@ Pereira
 Peretti
 Perfelti
 Perfetti
-Péricard
+Pï¿½ricard
 Perie
 Perls
 Pernaska
@@ -7371,7 +7366,7 @@ Picotin
 Picotti
 Picvini
 Piech
-Piédalu
+Piï¿½dalu
 Piel
 Pienaar
 Piepoli
@@ -7479,7 +7474,7 @@ Plettenburg
 Plischke
 Pllana
 Pllumi
-Plöchl
+Plï¿½chl
 Ploegmakers
 Plone
 Plouviez
@@ -7487,7 +7482,7 @@ Pluchet
 Plucknet
 Poccetti
 Pocoli
-Pócsiné
+Pï¿½csinï¿½
 Poda
 Poer
 Poestinger
@@ -7524,7 +7519,7 @@ Polymeropoulos
 Polymeru
 Polyzou
 Pomardi
-Pomarès
+Pomarï¿½s
 Pombal
 Pometti
 Pomi
@@ -7679,7 +7674,7 @@ Quenhenerve
 Quentin
 Quesnel
 Questi
-Quièvremont
+Quiï¿½vremont
 Quilleboeuf
 Quincarnon
 Quinl
@@ -7844,7 +7839,7 @@ Retzner
 Reufi
 Reusing
 Reuter
-Révay
+Rï¿½vay
 Revel
 Reviers
 Revol
@@ -7930,7 +7925,7 @@ Riucu
 Rivaldo
 Rivette
 Riviere
-Rivière
+Riviï¿½re
 Rizzi
 Rizzo
 Roachant
@@ -7954,7 +7949,7 @@ Rocque
 Rodier
 Rodin
 Roding
-Rödinger
+Rï¿½dinger
 Rodledo
 Rodocanachi
 Rodrigues
@@ -7966,7 +7961,7 @@ Roelofse
 Roels
 Roerich
 Roethlisberger
-Rog¾
+Rogï¿½
 Roga
 Roger
 Roggeveen
@@ -7974,10 +7969,10 @@ Roghi
 Rogiers
 Rohland
 Rohlander
-Röhm
+Rï¿½hm
 Rohre
 Rohrer
-Röhricht
+Rï¿½hricht
 Rohwer
 Roig
 Rollenhagen
@@ -7986,7 +7981,7 @@ Rollinat
 Rolnik
 Rom
 Roman
-Romançon
+Romanï¿½on
 Romanelli
 Romano
 Romanov
@@ -7994,7 +7989,7 @@ Romary
 Rombaut
 Rombley
 Romboni
-Romé
+Romï¿½
 Romenel
 Romeyn
 Romme
@@ -8043,7 +8038,7 @@ Rossen
 Rossetti
 Rossito
 Rosskopf
-Rösslar
+Rï¿½sslar
 Rossouw
 Roster
 Rosza
@@ -8070,7 +8065,7 @@ Roumet
 Roupardin
 Roussel
 Rousset
-Rouvière
+Rouviï¿½re
 Rouwens
 Roux
 Rovigo
@@ -8082,7 +8077,7 @@ Rucelli
 Ruchendorf
 Rucker
 Rudhart
-Rüdiger
+Rï¿½diger
 Rueckl
 Ruegsegger
 Ruehe
@@ -8355,7 +8350,7 @@ Schliemann
 Schliessmann
 Schlneicher
 Schlomer
-Schlöndorff
+Schlï¿½ndorff
 Schlotterbeck
 Schluchter
 Schluep
@@ -8404,7 +8399,7 @@ Schoon
 Schoonmaker
 Schoonvliet
 Schopp
-Schöpp
+Schï¿½pp
 Schopper
 Schott
 Schottel
@@ -8435,7 +8430,7 @@ Schult
 Schulte
 Schulten
 Schultz
-Schültz
+Schï¿½ltz
 Schulze
 Schumann
 Schummer
@@ -8480,7 +8475,7 @@ Segala
 Segel
 Segers
 Seghers
-Séguier
+Sï¿½guier
 Segura
 Seguro
 Seibel
@@ -8531,12 +8526,12 @@ Sermattei
 Serontein
 Serpa
 Serraino
-Serrão
+Serrï¿½o
 Serrault
 Serrou
 Sertori
 Serusclat
-Sérusier
+Sï¿½rusier
 Serven
 Servergnini
 Sesa
@@ -8696,7 +8691,7 @@ Sonnenberg
 Sonnes
 Sonnino
 Sonntag
-Soós
+Soï¿½s
 Sooy
 Sopa
 Sophoulis
@@ -8723,7 +8718,7 @@ Spagnol
 Spagnuolo
 Spaneth
 Spano
-Spätling
+Spï¿½tling
 Specht
 Speckstadt
 Spee
@@ -8871,7 +8866,7 @@ Storback
 Storp
 Stortebeker
 Stot
-Stötzer
+Stï¿½tzer
 Stourzh
 Stoutenburgh
 Stoyanov
@@ -8939,7 +8934,7 @@ Sundhaussen
 Supola
 Surin
 Surroi
-Süto
+Sï¿½to
 Suvaal
 Suy
 Suzman
@@ -8972,7 +8967,7 @@ Szatmary
 Szechenyi
 Szekely
 Szekeres
-Szelepcsényi
+Szelepcsï¿½nyi
 Szelig
 Szeman
 Szemere
@@ -9035,7 +9030,7 @@ Tatari
 Tathouris
 Taube
 Taubernberger
-Täubl
+Tï¿½ubl
 Taudenrauch
 Tauler
 Taument
@@ -9163,7 +9158,7 @@ Thul
 Thulliez
 Thuram
 Thurneysen
-Thurzó
+Thurzï¿½
 Thyssen
 Tibaldi
 Tibbets
@@ -9214,7 +9209,7 @@ Titz
 Toba
 Tobel
 Toccafundo
-Toché
+Tochï¿½
 Toclive
 Todorov
 Todorova
@@ -9222,13 +9217,13 @@ Toers
 Tofi
 Tofoli
 Tognazzi
-Tökes
+Tï¿½kes
 Tokody
 Tolaj
 Toldo
 Tolgyesi
 Tolka
-Tölle
+Tï¿½lle
 Tolo
 Tolr
 Tolzmann
@@ -9270,7 +9265,7 @@ Toto
 Touchet
 Touers
 Touliatos
-Tour¾
+Tourï¿½
 Tourette
 Tourlaville
 Tourmente
@@ -9285,7 +9280,7 @@ Tourret
 Toussaint
 Toustain
 Toutain
-Toyé
+Toyï¿½
 Tozzi
 Tragianopoulos
 Tramacchi
@@ -9438,7 +9433,7 @@ Vadim
 Vael
 Vaerewyck
 Vaga
-Valabrègue
+Valabrï¿½gue
 Valadon
 Valance
 Valaoritis
@@ -9808,7 +9803,7 @@ Velines
 Velo
 Velona
 Veloukhiotis
-Vénard
+Vï¿½nard
 Vendele
 Vendelin
 Venditti
@@ -10281,7 +10276,7 @@ Wuytack
 Wyckoff
 Wymeersich
 Wynen
-Yäcklel
+Yï¿½cklel
 Yahnel
 Yankov
 Yannopoulos
@@ -10326,7 +10321,7 @@ Zafiropoulos
 Zagallo
 Zagreda
 Zahn
-Zaïmis
+Zaï¿½mis
 Zaituc
 Zakhariadis
 Zalacain
@@ -10412,7 +10407,7 @@ Zoffoli
 Zogjani
 Zographas
 Zogu
-Zoïtakis
+Zoï¿½takis
 Zola
 Zolotas
 Zonta
@@ -10421,7 +10416,7 @@ Zoravkov
 Zornoza
 Zorzi
 Zozaia
-Zrínyi
+Zrï¿½nyi
 Zsivozky
 Zsoldos
 Zubizarreta
