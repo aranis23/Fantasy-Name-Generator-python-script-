@@ -1,60 +1,46 @@
-from random import randrange
+import random as rd
 
-running = True
+gender = ""
+names = []
+last = []
+length = 0
 
-#first_name_male = []
-#first_name_female = []
+final_name = ""
+read = ""
+read_last=""
 
-#last_name = []
+def name_getter():
+    cont = 0
+    name_file = ""
+    last_name_file = open("last_name.txt")
 
-welcome_message = "Welcome to Fantasy Name Generator!"
-male_or_female_message = "Is your character male or female? Enter M or F.."
+    if gender.lower == "m": 
+        lenght = 6301
+        name_file = open("first_name_male.txt")
 
+    elif gender.lower == "f": 
+        lenght = 4384
+        name_file = open("first_name_female.txt")
 
-first_time = True
-
-def line_appender(file_path, target):
-	file = open(file_path, "r")
-	splitfile = file.read().splitlines()
-	for line in splitfile:
-		target.append(line)
-
-def name_selector(target_list):
-	selected = target_list[randrange(len(target_list))]
-	return selected
-
-def name_builder(first_name_list_path, last_name_list_path):
-	first_name_list = []
-	last_name_list = []
-
-	line_appender(first_name_list_path, first_name_list)
-	line_appender(last_name_list_path, last_name_list)
-
-	first_name_selected = name_selector(first_name_list)
-	last_name_selected = name_selector(last_name_list)
-
-	name = first_name_selected+" "+last_name_selected
-	return name
+    for cont in range(length):
+        read = name_file.readline()+read
+        names = read.split()
+    
+    for cont in range(10445):
+        read_last = last_name_file.readline()+read_last
+        last = read.split()
 
 
-while running:
+    rand = rd.randint(lenght)
+    rand2 = rd.randint(10445)
+    final_name = names[rand]+last[cont]
 
-	if first_time:
-		print(welcome_message)
+    return final_name
 
-	user_input = input(male_or_female_message)
+def main():
+    gender = input("inserte el genero")
+    if gender == "m":
+        final_name = name_getter()
+        print(final_name)
+main()
 
-	if user_input == "M" or user_input == "m":
-
-		name = name_builder("first_name_male.txt", "last_name.txt")
-		print(name)
-		first_time = False
-
-	elif user_input == "F" or user_input == "f":
-		name = name_builder("first_name_female.txt", "last_name.txt")
-		print(name)
-		first_time = False
-
-	else:
-		print("please specify gender")
-		first_time = False
